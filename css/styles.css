@@ -477,6 +477,13 @@ mark,
   max-width: 100%;
   height: auto;
 }
+.img-fluid-aboutme {
+  max-width: 20%;
+  height: auto;
+  border-radius: 75%;
+  margin-bottom: 5%;
+ 
+}
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -10228,7 +10235,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/tamas-tokos-3O3R0g3Ab4s-unsplash.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
